@@ -1,2 +1,5 @@
 # GarrySidhu_06801172025_assignment
 Name: Garry Sidhu
+enrollment no.: 06801172025
+College: INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN
+
